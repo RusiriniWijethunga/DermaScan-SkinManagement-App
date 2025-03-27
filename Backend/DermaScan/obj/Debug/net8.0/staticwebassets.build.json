@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "WChLfep+iVsngb2ZFjWL9E82ENvAbaCXExeXutbYD9g=",
+  "Source": "DermaScan",
+  "BasePath": "_content/DermaScan",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
